@@ -1,1 +1,4 @@
-# Gans
+# GENERATIVE ADVERSARIAL NETWORKS
+This is reimplementation of research paper on GANS
+
+# RESULTS
